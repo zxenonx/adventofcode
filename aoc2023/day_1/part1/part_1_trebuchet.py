@@ -1,5 +1,5 @@
 '''
-Day 1 of AOC - trebuchet
+Day 1 of AOC - Part 1 - trebuchet
 '''
 import re
 
